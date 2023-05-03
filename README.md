@@ -11,4 +11,4 @@ https://i.imgur.com/Br02kXs.jpeg
 
 ## Link to the page 
 
-https://knitsy.github.io/challenge-1/#online-reputation-management
+https://knitsy.github.io/challenge-1/
