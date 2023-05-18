@@ -1,25 +1,27 @@
+//Global settings
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+//Body settings
 body {
     background-color: #d9dcd6;
 }
-
+//header
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+//header but h1
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+//header h1 class seo
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+//hero class
 .hero {
     height: 800px;
     width: 100%;
@@ -86,7 +88,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -101,7 +103,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
